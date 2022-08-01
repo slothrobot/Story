@@ -1,0 +1,5 @@
+chapter2.txt
+#this is a comment
+#this .gitignore file allows me to 添加一些我不想放到GitHub上的文件
+
+#use  *.png   means all files with png extension will be ignored 
